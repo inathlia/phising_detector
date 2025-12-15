@@ -1,8 +1,14 @@
 fastapi
 uvicorn
-scikit-learn
-pandas
+
 numpy
+pandas
+scipy
+
+scikit-learn==1.7.2
+imbalanced-learn==0.13.0
+
+joblib
 tldextract
 python-multipart
-imbalanced-learn
+requests
