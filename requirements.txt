@@ -1,14 +1,14 @@
 fastapi
 uvicorn
 
-numpy
-pandas
-scipy
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.11.4
 
-scikit-learn==1.7.2
-imbalanced-learn==0.13.0
+scikit-learn==1.2.2
+imbalanced-learn==0.10.1
 
-joblib
+joblib==1.3.2
 tldextract
 python-multipart
 requests
